@@ -1,0 +1,22 @@
+
+ul {
+    margin: 35px 0;
+    list-style: none;
+    display: flex;
+}
+
+a {
+    padding: 16px;
+   
+    margin: 2px;
+ 
+    text-decoration: none; 
+    border-radius: 15px;
+    transition: .3s;
+}
+
+img {
+    cursor: pointer;
+}
+
+
